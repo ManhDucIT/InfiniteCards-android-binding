@@ -105,6 +105,11 @@ public class ZIndexTransformerToBackStyle1 : Java.Lang.Object, IZIndexTransforme
 }
 mCardView.SetZIndexTransformerToBack(new ZIndexTransformerToBackStyle1());
 ```
+
+## Special thanks
+Thanks to [BakerJQ](https://github.com/yarolegovich) for a native wonderful initial library [Android-InfiniteCards
+](https://github.com/BakerJQ/Android-InfiniteCards).
+
 ## *License*
 
 InfiniteCards-android-binding is released under the MIT license.

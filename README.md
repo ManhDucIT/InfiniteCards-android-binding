@@ -107,7 +107,7 @@ mCardView.SetZIndexTransformerToBack(new ZIndexTransformerToBackStyle1());
 ```
 
 ## Special thanks
-Thanks to [BakerJQ](https://github.com/yarolegovich) for a native wonderful initial library [Android-InfiniteCards
+Thanks to [BakerJQ](https://github.com/BakerJQ) for a native wonderful initial library [Android-InfiniteCards
 ](https://github.com/BakerJQ/Android-InfiniteCards).
 
 ## *License*
